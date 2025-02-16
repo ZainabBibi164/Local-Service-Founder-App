@@ -23,7 +23,8 @@ The Local Service Finder App is designed to connect users with nearby service pr
        Ensure you have the following installed on your system:
        1.Flutter SDK (if using Flutter) 
        2.Android Studio or VS Code (with Flutter/Dart extensions)
-       3.Nextjs  (if backend uses Next js)
+       3.Nextjs (frontend)
+       (if backend use Nest js)
        4.Firebase CLI (if using Firebase) → npm install -g firebase-tools
        5.Git 
        🔹Clone the Repository
